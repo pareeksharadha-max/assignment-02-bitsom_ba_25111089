@@ -20,7 +20,7 @@ db.products.insertMany([
     product_name: "T-Shirt",
     price: 800,
     brand: "Puma"
-  }
+  },
 ]);
 
 // OP2: find() — retrieve all Electronics products with price > 20000
